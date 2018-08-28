@@ -1,14 +1,6 @@
-# SB Admin rewritten in Angular6 and Bootstrap 4
+# Sticker Junkies Inventory Management & Employee Dashboard
 
 Simple Dashboard Admin App built using Angular 6 and Bootstrap 4
-
-This project is a port of the famous Free Admin Bootstrap Theme [SB Admin v6.0](http://startbootstrap.com/template-overviews/sb-admin-2/) to Angular5 Theme.
-
-Powered by [StartAngular](http://startangular.com/) & [StrapUI](http://strapui.com/)
-
-## [Demo](http://rawgit.com/start-angular/SB-Admin-BS4-Angular-6/master/dist/)
-
-## [SB Admin Material version](https://github.com/start-javascript/sb-admin-material)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
